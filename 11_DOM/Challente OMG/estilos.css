@@ -1,0 +1,29 @@
+.pizza{
+    width: 500px;
+    height: 250px;
+}
+.titulo{
+    text-align: center;
+    color: #0e9aa7;
+}
+.row{
+    margin: 10px 0;
+}
+.col-12{
+    margin: 10px 0;
+}
+.none{
+    display: none;
+}
+/* .card{
+    width: 500px;
+    height: 250px;
+} */
+#hawaii{
+    width: 400px;
+    height: 250px;
+}
+#peppe{
+    width: 400px;
+    height: 250px;
+}

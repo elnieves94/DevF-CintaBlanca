@@ -1,0 +1,17 @@
+* {
+    background-color: #FA9C9A;
+}
+img{
+    width: 250px;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+.nombre{
+    font-size: 30px;
+}
+a{
+    text-decoration: none;
+    color: yellow;
+}

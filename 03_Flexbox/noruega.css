@@ -1,0 +1,58 @@
+.todo{
+    background-color: #002868;
+    width: 1100px;
+    height: 600px;
+    display: flex;
+}
+.izquierdo{
+    display: flex;
+    flex-direction: column;
+    width: 495px;
+    justify-content: space-between;
+}
+.blanco1{
+    background-color: white;
+    width: 80%;
+    height: 42%;
+    display: flex;
+    flex-direction: column;
+}
+.rojo1{
+    background-color: #EF2B2D;
+    width: 90%;
+    height: 85%;
+}
+.blanco2{
+    background-color: white;
+    width: 80%;
+    height: 42%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+.derecho{
+    display: flex;
+    width: 605px;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.blanco3{
+    background-color: white;
+    height: 42%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.rojo2{
+    background-color: #EF2B2D;
+    width: 93%;
+    height: 85%;
+}
+.blanco4{
+    background-color: white;
+    height: 42%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end;
+}

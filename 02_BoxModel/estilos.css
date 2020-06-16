@@ -1,0 +1,39 @@
+.barra{
+    display: inline-block;
+    /* border: 3px solid black; */
+    font-size: 13px;
+    margin: 0px 7px;
+}
+.barraArriba{
+    margin-left: 1000px;
+    /* background-color: green; */
+}
+.busc{
+    /* background-color: yellow; */
+    margin: 50px 500px;
+}
+.img1{
+    width: 300px;
+    /* margin-bottom: 25px; */
+}
+.ingre{
+    display: inline-block;
+    margin: 0px 70px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    padding: 5px;
+}
+.but1{
+    margin-right: 10px;
+    padding: 5px;
+}
+.but2{
+    margin-left: 10px;
+    padding: 5px;
+}
+a{
+    text-decoration: none;
+}
+.abajo{
+    margin: 0px 550px;
+}

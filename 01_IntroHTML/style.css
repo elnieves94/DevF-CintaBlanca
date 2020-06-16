@@ -1,0 +1,22 @@
+*{
+    background-color: #82B099;
+    color: white;
+    font-size: 15px;
+}
+img{
+    width: 250px;
+}
+h1{
+    text-align: center;
+    font-size: 25px;
+}
+li{
+    list-style: square;
+}
+b{
+    color: darkred;
+}
+.red{
+    text-decoration: none;
+    color: olive;
+}
